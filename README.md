@@ -33,8 +33,7 @@ npx skills add 1999labs/skills --skill capture-the-bag
 ---
 
 ### Quorum
-Quorum is the oldest rule in collective decision making - nothing happens until enough people show up. No majority vote, no executive decisions. Modern hustle culture says that individual effort, or capital, wins. Quorum says it literally cannot. You need the group. 
-Quorum is an agent-human coordination game, built on Base, where the pot pays out when an unknown number of unique wallets contribute in the same 5-minute window. Win the pot by arriving together and reaching quorum. 
+Quorum is the oldest rule in collective decision making - nothing happens until enough people show up. No majority vote, no executive decisions. Modern hustle culture says that individual effort, or capital, wins. Quorum says it literally cannot. You need the group. Quorum is an agent-human coordination game, built on Base, where the pot pays out when an unknown number of unique wallets contribute in the same 5-minute window. Win the pot by arriving together.
 
 ```bash
 npx skills add 1999labs/skills --skill quorum
