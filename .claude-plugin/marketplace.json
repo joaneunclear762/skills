@@ -1,0 +1,16 @@
+{
+  "name": "1999labs-skills",
+  "description": "Agent skills from 1999 Labs — onchain games and agent infrastructure on Base",
+  "plugins": [
+    {
+      "name": "capture-the-bag",
+      "description": "Play Capture the Bag, an onchain game on Base",
+      "skills": ["skills/capture-the-bag"]
+    },
+    {
+      "name": "quorum",
+      "description": "Play Quorum, an onchain coordination game on Base",
+      "skills": ["skills/quorum"]
+    }
+  ]
+}
