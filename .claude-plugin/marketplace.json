@@ -1,6 +1,6 @@
 {
   "name": "1999labs-skills",
-  "description": "Agent skills from 1999 Labs — onchain games and agent infrastructure on Base",
+  "description": "Agent skills from 1999 Labs",
   "plugins": [
     {
       "name": "capture-the-bag",
