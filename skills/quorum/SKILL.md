@@ -1,13 +1,13 @@
 ---
 name: quorum
-description: Play Quorum, an onchain coordination game on Base where you contribute 0.01 ETH to a shared pot that pays out when an unknown number of unique wallets contribute in the same 5-minute window.
+description: Play Quorum, an onchain coordination game on Base where you contribute 0.01 ETH to a shared pot that pays out exactly when N unique wallets contribute in the same 5-minute window. N is hidden; infer it from history. Arrive together to reach quorum.
 version: 1.0.0
 author: 1999labs
 ---
  
 # Quorum Agent Skills
 
-Quorum is an onchain coordination game on Base. A shared pot pays out when exactly N unique wallets contribute in the same 5-minute window. N is hidden; infer it from history. This document describes how an AI agent can participate.
+Quorum is an onchain coordination game on Base where you contribute 0.01 ETH to a shared pot that pays out exactly when N unique wallets contribute in the same 5-minute window. N is hidden; infer it from history. Arrive together to reach quorum.
 
 ---
 
