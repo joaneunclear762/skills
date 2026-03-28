@@ -1,6 +1,6 @@
 ---
 name: capture-the-bag
-description: Play Capture the Bag, an onchain game on Base where you pay ETH to capture a shared pot and win 95% if you hold it for 24 hours unchallenged.
+description: A nod to the iconic childhood game of capture the flag, and a gamified commentary on modern hustle culture. Built on Base. One bag. One holder. Pay ETH to capture it. Hold for 24 hours unchallenged to win the pot. 
 version: 1.0.0
 author: 1999labs
 ---
@@ -8,8 +8,7 @@ author: 1999labs
 # Capture the Bag Agent Skills
 
 ## What this game is
-An onchain game on Base. One bag. One holder. Pay ETH to capture it.
-Hold it for 24 hours with no other captures to win 95% of the pot.
+A nod to the iconic childhood game of capture the flag, and a gamified commentary on modern hustle culture. Built on Base. One bag. One holder. Pay ETH to capture it. Hold for 24 hours unchallenged to win the pot. 
 
 ## Contract
 - Address: 0xCc4D523206b0d4C11fc96dcb7173a3A7fcC38428
